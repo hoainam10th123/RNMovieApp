@@ -1,4 +1,5 @@
 # React Native Movie app - Net core 6
+Demo: https://youtu.be/D3lNCYLTuhE
 ## 1 Backend: .Net Core 6
 <ol>
   <li>EFCore.BulkExtensions (Data movie: 6000 record, Dữ liệu training 18000 record)</li>
