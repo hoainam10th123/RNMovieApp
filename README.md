@@ -84,7 +84,6 @@ get ColorPropType(): $FlowFixMe {
     return require('deprecated-react-native-prop-types').ViewPropTypes;
   },
 ```
-# Xong React native
 
 ### 2 Phần .Net core
 **chỉ cần tạo db với tên là MovieAiDb. sau đó chạy sql đính kèm để tạo bảng và data kèm theo. nhớ sửa chuổi kết nối để chạy**
